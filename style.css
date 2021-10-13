@@ -1,0 +1,9 @@
+body{
+    width:1100px;
+    background:#1d1e2f;
+    max-width: 95%;
+    margin:auto;
+    color:beige;
+    font-family:'Courier New', Courier, monospace;
+    overflow-x: hidden;
+}
